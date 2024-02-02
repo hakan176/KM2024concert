@@ -34,7 +34,7 @@ document.getElementById("div_song01_lyrics").innerHTML = song01_lyrics;
 
 
 /*    Song02    */
-let song02_title = "<h3><span style='font-size:30px; border:2px solid black;'><strong><strong>&#9205;</strong></strong>&#8198;&#8198;&#8198;&#8198;</span><strong>2.Şarkı - Benim Gözüm Sende</strong></h3>";
+let song02_title = "<h3><span style='font-size:30px; border:2px solid black;'><strong><strong>&#9205;</strong></strong></span>&#8198;&#8198;&#8198;&#8198;<span><strong>2.Şarkı - Benim Gözüm Sende</strong></span></h3>";
 document.getElementById("div_song02_title").innerHTML = song02_title;                      /*     &#9207;  */
 
 let song02_lyrics = "<pre>Görünce aşık oldum<span id='a'><br>I fell in love when I saw</span></pre>"
