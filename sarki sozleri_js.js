@@ -2,7 +2,7 @@
 
 
 /*    Song01    */
-let song01_title = "<h3><span id=''><strong>1.Şarkı - Sevemedim Kara Gözlüm</strong></span><span style='font-size:40px; border:2px solid black;'><strong><strong>&#43; &#150;</strong></strong></span></h3>";
+let song01_title = "<h3><span id=''><strong>1.Şarkı - Sevemedim Kara Gözlüm</strong></span><span style='font-size:40px; border:2px solid black;'><strong><strong>&#11166;  &#43; &#150;</strong></strong></span></h3>";
 document.getElementById("div_song01_title").innerHTML = song01_title;
  
 let song01_lyrics = "<pre>Sevemedim kara gözlüm, seni doyunca<span id='a'><br>I couldn't love enough of you, my dark-eyed one</span></pre>"
