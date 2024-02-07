@@ -225,6 +225,34 @@ document.getElementById("div_song06_lyrics").innerHTML = song06_lyrics;
 
 
 /*    Song07    */
+
+let song07_title = '<h3><strong>7.Şarkı - Dudaklarında Arzu</strong></h3>';
+document.getElementById("div_song07_title").innerHTML = song07_title;
+
+let song07_lyrics = "<p>Dudaklarında arzu, kollarında yalnız ben<span id='a'><br>let me be desire on your lips & only one in your arms</span><br>Sana bakan bir çift göz, ben olayım sevgilim<span id='a'><br>let me be a pair of eyes looking at you, my darling</span></p><br>"
++ "<pre><span id='a'><br></span></pre><br>"
+
+
+/*
+(  )
+
+(  )
+Dudaklarında arzu, kollarında yalnız ben
+( let me be desire on your lips & only one in your arms )
+Sana bakan bir çift göz, ben olayım sevgilim
+( let me be a pair of eyes looking at you, my darling )
+
+Gününe, gecene eş, gözünde yaş, yine ben
+( let me be company for your day & night, and tears in your eyes )
+Sana aşık yalnız ben, ben olayım sevgilim
+( let me be only one in love with you, my darling )
+Sana aşık yalnız ben, ben olayım sevgilim
+( let me be only one in love with you, my darling )
+*/
+
+
+/*
+
 let song07_title = '<h3><strong>7.Şarkı - </strong></h3>';
 document.getElementById("div_song07_title").innerHTML = song07_title;
 
@@ -254,7 +282,7 @@ let song07_lyrics = "<pre><span id='a'><br></span></pre>"
 + "<pre><span id='a'><br></span></pre><br>";
 
 document.getElementById("div_song07_lyrics").innerHTML = song07_lyrics;
-
+*/
 
 /*    Song08    */
 let song08_title = '<h3><strong>8.Şarkı - </strong></h3>';
