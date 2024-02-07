@@ -231,7 +231,7 @@ document.getElementById("div_song07_title").innerHTML = song07_title;
 
 let song07_lyrics = "<p>Dudaklarında arzu, kollarında yalnız ben<span id='a'><br>let me be desire on your lips & only one in your arms</span><br>Sana bakan bir çift göz, ben olayım sevgilim<span id='a'><br>let me be a pair of eyes looking at you, my darling</span></p><br>"
 + "<pre><span id='a'><br></span></pre><br>"
-
+document.getElementById("div_song07_lyrics").innerHTML = song07_lyrics;
 
 /*
 (  )
