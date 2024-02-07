@@ -1,9 +1,10 @@
 
 
 
+
 /*    Song01    */
-let song01_title = "<h3><span id=''><strong>1.Şarkı - Sevemedim Kara Gözlüm</strong></span>&#8198;&#8198;&#8198;&#8198;<span style='font-size:40px; border:2px solid black;'><strong><strong>&#43;</strong></strong></span></h3>";
-document.getElementById("div_song01_title").innerHTML = song01_title;                                                                     /*   &#709; &#707;   &#150;  */                 
+let song01_title = "<h3><span id=''>&#8803;<strong>1.Şarkı - Sevemedim Kara Gözlüm</strong></span><span style='font-size:40px; border:2px solid black;'><strong><strong>&#709; &#707;  &#43; &#150;</strong></strong></span></h3>";
+document.getElementById("div_song01_title").innerHTML = song01_title;
  
 let song01_lyrics = "<pre>Sevemedim kara gözlüm, seni doyunca<span id='a'><br>I couldn't love enough of you, my dark-eyed one</span></pre>"
 + "<pre>Hep kıskandım seni elden, yıllar boyunca<span id='a'><br>I've always envied you from others, over the years</span></pre><br>"
@@ -34,8 +35,8 @@ document.getElementById("div_song01_lyrics").innerHTML = song01_lyrics;
 
 
 /*    Song02    */
-let song02_title = "<h3><span style='font-size:30px; border:2px solid black;'><strong><strong>&#9205;</strong></strong></span>&#8198;&#8198;&#8198;&#8198;<span><strong>2.Şarkı - Benim Gözüm Sende</strong></span></h3>";
-document.getElementById("div_song02_title").innerHTML = song02_title;                      /*     &#9207;  */
+let song02_title = "<h3><span style='font-size:30px; border:2px solid black;'><strong><strong>&#9205; &#9207</strong></strong></span><strong>2.Şarkı - Benim Gözüm Sende</strong></h3>";
+document.getElementById("div_song02_title").innerHTML = song02_title;
 
 let song02_lyrics = "<pre>Görünce aşık oldum<span id='a'><br>I fell in love when I saw</span></pre>"
 + "<pre>O güzel gözlerine<span id='a'><br>Those beautiful eyes of yours</span></pre>"
@@ -285,6 +286,17 @@ let song08_lyrics = "<pre><span id='a'><br></span></pre>"
 + "<pre><span id='a'><br></span></pre><br>";
 
 document.getElementById("div_song08_lyrics").innerHTML = song08_lyrics;
+
+
+
+
+
+
+
+
+
+
+
 
 
 
